@@ -5,16 +5,16 @@
 
 :root {
   /* Color system */
-  --n-primary: #155EEF;
-  --n-primary-dark: #0E3FB0;
-  --n-secondary: #6941C6;
-  --n-navy: #0B1437;
-  --n-success: #12B76A;
-  --n-slate: #667085;
-  --n-slate-light: #98A2B3;
-  --n-bg: #F7F9FC;
-  --n-bg-alt: #EEF2FF;
-  --n-border: #E4E7EC;
+  --n-primary: #2196F3;
+  --n-primary-dark: #0D47A1;
+  --n-secondary: #607D8B;
+  --n-navy: #2962FF;
+  --n-success: #4CAF50;
+  --n-slate: #607D8B;
+  --n-slate-light: #B0BEC5;
+  --n-bg: #FAFAFA;
+  --n-bg-alt: #E3F2FD;
+  --n-border: #EEEEEE;
   --n-white: #FFFFFF;
 
   /* Gradients */
